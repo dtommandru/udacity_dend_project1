@@ -22,7 +22,6 @@ In this project, you'll apply what you've learned on data modeling with Postgres
 - etl.py: Read JSON logs and JSON metadata and load the data into generated tables.
 
 ## Database Schema
-![ERD](DEND%20Project%201%20ERD.png)
 
 - songplays: Records in log data associated with song plays
 - users: Users in the app
